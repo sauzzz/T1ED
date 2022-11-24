@@ -1,0 +1,1 @@
+# Para cada uno de los lenguajes anteriores, indica el nombre del compilador o intérprete utilizado en GNU/Linux.

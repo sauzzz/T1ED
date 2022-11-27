@@ -1,1 +1,0 @@
-# Bibliotecas. Define qué se entiende por biblioteca o librería y los tipos que existen.

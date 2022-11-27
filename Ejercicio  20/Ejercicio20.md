@@ -1,1 +1,0 @@
-# Bibliotecas. Busca información y explica las ventajas y desventajas de usar bibliotecas estáticas.

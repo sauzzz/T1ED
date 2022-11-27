@@ -15,3 +15,15 @@ Date:   Thu Nov 24 14:31:46 2022 +0100
 ~~~
     Subo ejercicios
 ~~~
+- commit f31c36e71fe1cc4c9f42837f8240d430ffede3b2 (HEAD -> main, origin/main)
+Author: sauzzz <118272486+sauzzz@users.noreply.github.com>
+Date:   Sun Nov 27 22:57:02 2022 +0100
+~~~
+    Delete .DS_Store
+~~~
+- commit b8203d2618c247910eb8b34675d7209650fc1274
+Author: sauzzz <118272486+sauzzz@users.noreply.github.com>
+Date:   Sun Nov 27 22:56:31 2022 +0100
+~~~
+    Update readme.md
+~~~
